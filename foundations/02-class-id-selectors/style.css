@@ -1,10 +1,10 @@
 .odd {
-    background-color: lightpink;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: rgb(255,167,167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #number2 {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #number4 {
-    background-color: lightgreen;
+    background-color: hsl(120,100%,75%);
     font-size: 24px;
     font-weight: bold;
 }
