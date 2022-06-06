@@ -51,6 +51,7 @@ We separated it out here to make it extra clear what has changed. */
 }
 
 .button-container {
+  display: block;
   text-align: center;
   padding: 8px;
 }
